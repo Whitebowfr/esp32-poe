@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS2373-4RGWR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-08-07-20:00:51)
+    (mountForm default
+        (footprintRef "QFN65P500X500X100-21N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=7499211125
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.1
+Released=2018-10-30 11:53:04
+Downloaded=2024-08-06 10:43:30
+3D=Y

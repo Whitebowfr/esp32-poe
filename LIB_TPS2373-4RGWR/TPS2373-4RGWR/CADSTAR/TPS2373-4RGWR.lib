@@ -1,0 +1,16 @@
+.TPS2373-4RGWR :1 ;IEEE 802.3bt PoE High-Power PD Interface with Advanced Startup
+QFN65P500X500X100-21N
+*STM IC
+*NGS
+*PLB 1="VDD" 2="DEN" 3="CLSA" 4="VSS_1" 5="VSS_2" 6="CLSB" 7="REF" 8="AMPS_CTL" 9="MPS_DUTY" 10="APD" 11="RTN_1" 12="RTN_2" 13="PG" 14="VC_OUT" 15="VC_IN" 16="UVLO_SEL" 17="TPL" 18="TPH" 19="'BT'" 20="NC" 21="EP"
+*MXP 21
+*DFN TPS2373-4RGWR
+~!Mouser Part Number (595-TPS2373-4RGWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2373-4RGWR?qs=AQlKX63v8Rvi%2FgD3UVXVLg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS2373-4RGWR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tps2373)
+~!Height (1mm)
+~!3D_Model (TPS2373-4RGWR)
+TPS2373-4RGWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS2373-4RGWR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=21
+Version=1.1
+Released=2020-08-04 07:15:33
+Downloaded=2024-10-12 21:32:03
+3D=Y

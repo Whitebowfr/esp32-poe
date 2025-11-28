@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2373-4RGWR
+D IEEE 802.3bt PoE High-Power PD Interface with Advanced Startup
+K
+F http://www.ti.com/lit/gpn/tps2373
+$ENDCMP
+#
+#End Doc Library

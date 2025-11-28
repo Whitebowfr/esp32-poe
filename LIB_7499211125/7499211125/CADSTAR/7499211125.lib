@@ -1,0 +1,17 @@
+.7499211125 :1 ;Through Hole Lan Ethernet Transformer, 16 x 13.55 x 21.3mm, -40  +85 C
+"7499211125"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=9 8=10 9=11 10=12 11=13 12=14 13=MH2 14=MH4
+*PLB 1="RD+" 2="RD-" 3="CRD" 4="TD+" 5="CTD" 6="TD-" 7="VC1+" 8="VC1-" 9="GREEN_K_1" 10="GREEN_A_1" 11="GREEN_A_2" 12="GREEN_K_2" 13="MH2" 14="MH3"
+*MXP 16
+*DFN 7499211125
+~!Mouser Part Number (710-7499211125)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7499211125?qs=SaTeGCoDkn2NnZ3LHUY8uQ%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (7499211125)
+~!Link Datasheet (https://katalog.we-online.de/pbs/datasheet/7499211125.pdf)
+~!Height (15.25mm)
+~!3D_Model (7499211125)
+"7499211125"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

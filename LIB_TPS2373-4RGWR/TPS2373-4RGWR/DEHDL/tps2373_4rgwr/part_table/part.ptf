@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS2373_4RGWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS2373-4RGWR" (!) = "", "QFN65P500X500X100-21N", "Quad Flat No-Lead", "595-TPS2373-4RGWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2373-4RGWR?qs=AQlKX63v8Rvi%2FgD3UVXVLg%3D%3D", "IEEE 802.3bt PoE High-Power PD Interface with Advanced Startup", "http://www.ti.com/lit/gpn/tps2373", "1 mm"
+END_PART
+
+END.
