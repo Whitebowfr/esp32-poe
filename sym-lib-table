@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.kicad_sym")(options "")(descr ""))
   (lib (name "TPS2373-4RGWR")(type "KiCad")(uri "${KIPRJMOD}/LIB_TPS2373-4RGWR/TPS2373-4RGWR/KiCad/TPS2373-4RGWR.kicad_sym")(options "")(descr ""))
+  (lib (name "HY931147C")(type "KiCad")(uri "${KIPRJMOD}/HY931147C/HY931147C.kicad_sym")(options "")(descr ""))
 )

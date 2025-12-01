@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/custom.pretty")(options "")(descr ""))
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/LIB_7499211125/7499211125/KiCad")(options "")(descr ""))
+  (lib (name "HY931147C")(type "KiCad")(uri "${KIPRJMOD}/HY931147C")(options "")(descr ""))
 )
