@@ -11092,17 +11092,6 @@
 		)
 		(uuid "1899c6b3-20fd-4d6d-a419-77ab22db8b0e")
 	)
-	(wire
-		(pts
-			(xy 303.53 95.25) (xy 317.5 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 194 0 194 1)
-		)
-		(uuid "18c6665a-0dcb-4486-bc1b-32146deb26cf")
-	)
 	(bus
 		(pts
 			(xy 109.22 175.26) (xy 109.22 222.25)
@@ -11519,6 +11508,17 @@
 			(type default)
 		)
 		(uuid "3d215baa-e1b2-4a0e-a47f-963e72df1113")
+	)
+	(wire
+		(pts
+			(xy 303.53 95.25) (xy 317.5 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 194 0 194 1)
+		)
+		(uuid "3d3228fc-a31b-463d-b2f0-0bacd2b4e38d")
 	)
 	(wire
 		(pts
@@ -12933,17 +12933,6 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 97.79) (xy 317.5 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 194 0 194 1)
-		)
-		(uuid "ac745362-cf2b-47dd-a1de-12c256b5ab94")
-	)
-	(wire
-		(pts
 			(xy 374.65 167.64) (xy 375.92 167.64)
 		)
 		(stroke
@@ -13874,6 +13863,17 @@
 	)
 	(wire
 		(pts
+			(xy 303.53 97.79) (xy 317.5 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 194 0 194 1)
+		)
+		(uuid "ff17c9e9-f13c-4a1b-be6e-08f98442ef58")
+	)
+	(wire
+		(pts
 			(xy 67.31 115.57) (xy 68.58 115.57)
 		)
 		(stroke
@@ -13922,6 +13922,17 @@
 		)
 		(uuid "07989d49-3066-47b1-8ddc-4cb8c20245f2")
 	)
+	(label "CHANNEL2"
+		(at 303.53 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 0 72 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "089e6d60-5e33-4943-a8d5-41c27bbbc8c5")
+	)
 	(label "ETH_RST"
 		(at 154.94 86.36 0)
 		(effects
@@ -13951,6 +13962,17 @@
 			(justify left bottom)
 		)
 		(uuid "134fa0de-5cd7-4de7-9b9d-ed88f2b6308e")
+	)
+	(label "CHANNEL4"
+		(at 303.53 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 0 72 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "17f5a393-5a79-4817-843d-c8b65448cf5f")
 	)
 	(label "5V_CHANNEL2"
 		(at 336.55 179.07 0)
@@ -13991,17 +14013,6 @@
 			(justify right bottom)
 		)
 		(uuid "22f72c4d-faa3-4577-83cf-143a929d4e68")
-	)
-	(label "CHANNEL1"
-		(at 303.53 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 72 0 72 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "25a95338-3a17-45fa-9501-80459e413779")
 	)
 	(label "ETH_RXD1"
 		(at 303.53 90.17 0)
@@ -14056,17 +14067,6 @@
 		)
 		(uuid "4a31843d-dd50-4b2e-902b-f64ee6553507")
 	)
-	(label "CHANNEL6"
-		(at 303.53 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 72 0 72 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "4e6aba45-99a5-4b96-b9be-f12f09742a5a")
-	)
 	(label "CHANNEL5"
 		(at 303.53 163.83 0)
 		(effects
@@ -14097,6 +14097,28 @@
 			(justify left bottom)
 		)
 		(uuid "5ac6ff9e-bb75-4abc-896d-eba8f5fd6c70")
+	)
+	(label "CHANNEL3"
+		(at 303.53 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 0 72 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c70c73c-22dc-4e18-9d8e-95b08a0d248b")
+	)
+	(label "CHANNEL7"
+		(at 303.53 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 0 72 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "6154213a-bbf3-4e21-81aa-815a54cc55af")
 	)
 	(label "ETH_RXD0"
 		(at 172.72 66.04 0)
@@ -14221,17 +14243,6 @@
 		)
 		(uuid "85be07d0-5e96-48e0-8c23-8b93245dfa79")
 	)
-	(label "CHANNEL3"
-		(at 303.53 59.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 72 0 72 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "8669afcc-45a4-443a-a4c4-6334e72a2a32")
-	)
 	(label "POE_V+"
 		(at 93.98 110.49 0)
 		(effects
@@ -14292,7 +14303,7 @@
 		)
 		(uuid "9d022dd8-e095-4305-b7b2-808c14c439e4")
 	)
-	(label "CHANNEL4"
+	(label "CHANNEL8"
 		(at 303.53 64.77 0)
 		(effects
 			(font
@@ -14301,7 +14312,29 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "a2b73e18-38b6-45a8-a37a-69dad1fcbe1f")
+		(uuid "9d462563-6f51-45bb-b2a2-5f50a096542e")
+	)
+	(label "CHANNEL5"
+		(at 303.53 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 0 72 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "9e728a95-b839-4d42-928f-25950c48fcb6")
+	)
+	(label "CHANNEL1"
+		(at 303.53 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 72 0 72 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2ea383d-10cf-45a4-b7ab-1ecb9dd2ff7d")
 	)
 	(label "TX-"
 		(at 275.59 66.04 0)
@@ -14374,8 +14407,8 @@
 		)
 		(uuid "c74e33a6-abe0-4f07-aabf-d99b21c26076")
 	)
-	(label "CHANNEL7"
-		(at 304.8 95.25 0)
+	(label "CHANNEL6"
+		(at 303.53 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14383,7 +14416,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "ca6768cd-4b00-45ea-b9d0-b9ffb6fa0016")
+		(uuid "c877d950-a49a-435a-90f6-959b48d1e4f8")
 	)
 	(label "ETH_MDIO"
 		(at 172.72 78.74 0)
@@ -14404,17 +14437,6 @@
 			(justify left bottom)
 		)
 		(uuid "ce4f9828-5fec-46a5-8be6-a81e938c3289")
-	)
-	(label "CHANNEL2"
-		(at 303.53 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 72 0 72 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "cf42b40c-3bc5-49d3-adce-ab64df9b62ce")
 	)
 	(label "POE_V+"
 		(at 116.84 224.79 0)
@@ -14445,17 +14467,6 @@
 			(justify left bottom)
 		)
 		(uuid "dbb365c2-a2d9-401a-a832-3af026c35f3a")
-	)
-	(label "CHANNEL5"
-		(at 303.53 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 72 0 72 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "dbedc0c0-0374-4463-9fdd-76d8b965b632")
 	)
 	(label "CHANNEL2"
 		(at 303.53 179.07 0)
@@ -14527,17 +14538,6 @@
 			(justify left bottom)
 		)
 		(uuid "ee86f666-bc2a-4fdd-8c76-0853ffc5aa61")
-	)
-	(label "CHANNEL8"
-		(at 304.8 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 72 0 72 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "f0417ba4-f0a6-4c9f-886e-4f31cda1e41d")
 	)
 	(label "ETH_CLK"
 		(at 179.07 93.98 0)
@@ -14973,72 +14973,6 @@
 			(project "esp32_POE"
 				(path "/2d9203e9-fefd-4c2a-a523-572538ad59ab"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 386.08 99.06 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "06ae2510-9c9f-4ea6-b26b-e7f4ae2b587a")
-		(property "Reference" "#PWR048"
-			(at 386.08 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 389.128 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 386.08 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 386.08 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 386.08 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4c215f41-4bb2-4f94-b1b7-405eff93512a")
-		)
-		(instances
-			(project "esp32_POE"
-				(path "/2d9203e9-fefd-4c2a-a523-572538ad59ab"
-					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -16533,7 +16467,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 358.14 163.83 90)
 			(effects
 				(font
@@ -16667,7 +16601,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 358.14 158.75 90)
 			(effects
 				(font
@@ -16802,7 +16736,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 358.14 153.67 90)
 			(effects
 				(font
@@ -19054,7 +18988,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 379.73 176.53 90)
 			(effects
 				(font
@@ -19459,7 +19393,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 379.73 167.64 90)
 			(effects
 				(font
@@ -21066,7 +21000,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 358.14 148.59 90)
 			(effects
 				(font
@@ -23529,6 +23463,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 386.08 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc9231f3-098d-4125-a7aa-84b32f445334")
+		(property "Reference" "#PWR048"
+			(at 386.08 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 386.08 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 386.08 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 386.08 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 386.08 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1a4ba60-4319-4f20-920b-a6d13ab22177")
+		)
+		(instances
+			(project "esp32_POE"
+				(path "/2d9203e9-fefd-4c2a-a523-572538ad59ab"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 346.71 234.95 0)
 		(unit 1)
@@ -23615,7 +23615,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 379.984 185.42 90)
 			(effects
 				(font
@@ -24486,7 +24486,7 @@
 				)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "120"
 			(at 378.46 158.75 90)
 			(effects
 				(font
